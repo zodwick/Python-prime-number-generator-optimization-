@@ -11,5 +11,17 @@ The various optimizations done in each level are:
   v7 - limit search to only previous prime numbers
   v8 - limit search to only previous prime numbers but checking for less than directly at list addition rather than during modulus check
   v9 - taking finding of sqrt of final number as constant outside
+  
+ 
+ Their respective time required are:
+  258.44545817375183
+  24.8780837059021
+  23.12345814704895
+  22.465441465377808
+  11.63539743423462
+  0.11180853843688965
+  0.09911322593688965
+  0.03931570053100586
+  0.03710675239562988
 
 
