@@ -13,7 +13,7 @@ Python script to generate first n prime numbers . Optimized by levels . Detailed
   v9 - taking finding of sqrt of final number as constant outside   
   
  
- ##Their respective time required are:
+ ## Their respective time required are:  
     258.44545817375183    
     24.8780837059021   
     23.12345814704895   
