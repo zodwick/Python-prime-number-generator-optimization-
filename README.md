@@ -29,4 +29,6 @@ Python script to generate first n prime numbers . Optimized by levels . Detailed
     0.020193815231323242  
     0.015111684799194336     
 
+![Alt](Python-prime-number-generator-optimization-/11.png)
+
 
