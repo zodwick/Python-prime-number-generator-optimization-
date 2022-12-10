@@ -14,7 +14,7 @@ The various optimizations done in each level are:
   
  
  Their respective time required are:
-  258.44545817375183
+  258.44545817375183 /n
   24.8780837059021
   23.12345814704895
   22.465441465377808
