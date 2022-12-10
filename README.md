@@ -10,9 +10,9 @@ Python script to generate first n prime numbers . Optimized by levels . Detailed
   v6  - limit search to square root of i   
   v7  - limit search to only previous prime numbers   
   v8  - limit search to only previous prime numbers but checking for less than directly at list addition rather than during modulus check   
-  v9  - taking finding of sqrt of final number as constant outside 
-  v10 - minor fixes
-  v11 - implementing sieve method?     
+  v9  - taking finding of sqrt of final number as constant outside     
+  v10 - minor fixes    
+  v11 - implementing sieve method?       
   v12 - optimised version of sieve check ( multiples of 2 removed during set creation )
   
  
